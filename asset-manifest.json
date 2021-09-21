@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6a35567f.chunk.css",
+    "main.css": "/portfolio/static/css/main.bd809e23.chunk.css",
     "main.js": "/portfolio/static/js/main.49acbcc3.chunk.js",
     "main.js.map": "/portfolio/static/js/main.49acbcc3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f0ea2219.js",
@@ -8,7 +8,7 @@
     "static/js/2.02ea1c40.chunk.js": "/portfolio/static/js/2.02ea1c40.chunk.js",
     "static/js/2.02ea1c40.chunk.js.map": "/portfolio/static/js/2.02ea1c40.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.6a35567f.chunk.css.map": "/portfolio/static/css/main.6a35567f.chunk.css.map",
+    "static/css/main.bd809e23.chunk.css.map": "/portfolio/static/css/main.bd809e23.chunk.css.map",
     "static/js/2.02ea1c40.chunk.js.LICENSE.txt": "/portfolio/static/js/2.02ea1c40.chunk.js.LICENSE.txt",
     "static/media/github.075df386.png": "/portfolio/static/media/github.075df386.png",
     "static/media/insta.3a5581d2.png": "/portfolio/static/media/insta.3a5581d2.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f0ea2219.js",
     "static/js/2.02ea1c40.chunk.js",
-    "static/css/main.6a35567f.chunk.css",
+    "static/css/main.bd809e23.chunk.css",
     "static/js/main.49acbcc3.chunk.js"
   ]
 }
