@@ -2,10 +2,10 @@ import React from "react";
 
 function Skills() {
   return (
-    <div id="skills" className="my-5 bg-dark text-white w-100">
-      <h1 className="text-center mb-3">Skills</h1>
+    <div id="skills" className="bg-dark text-white w-100 my-5">
+      <h1 className="text-center">Skills</h1>
 
-      <div className="container mt-5 w-70">
+      <div className="container w-70">
         <div className="row">
           <div className="col-sm">
             <div className="row align-items-center ml-1 h-20">

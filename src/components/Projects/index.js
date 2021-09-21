@@ -3,12 +3,12 @@ import React from "react";
 function Projects() {
   return (
     <>
-      <div id="projects" className="title mt-5">
+      <div id="projects" className="title mt-5 mb-3">
         <h1 className="text-center text-white">Projects</h1>
       </div>
       <div
         className="d-flex justify-content-center text-white bg-dark
-        mt-5 mb-5 w-100"
+        w-75"
       >
         <div className="text-decoration-none ">
           <div className="col-sm">

@@ -7,8 +7,8 @@ function Contact() {
       className="text-center text-lg-start bg-light text-muted w-100 bg-light mt-5"
     >
       <section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
-        <div className="me-5 d-none d-lg-block">
-          <span>Get connected with me:</span>
+        <div className="me-5">
+          <span>Get in touch:</span>
         </div>
       </section>
       <section className>
