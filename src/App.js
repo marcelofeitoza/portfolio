@@ -8,7 +8,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <div className="App bg-dark w-100 h-100">
+    <div className="App bg-dark w-100 h-100 smooth-scroll">
       <NavBar />
       <Intro />
       <Projects />

@@ -17,8 +17,8 @@ function Intro() {
           <img
             src={marceloPic}
             alt="marcelo"
-            className="d-none d-sm-block h-75 mr-3"
-            width="200"
+            className="d-none d-sm-block mr-3"
+            width="175"
           />
 
           <div className="">
