@@ -71,7 +71,7 @@ function Intro() {
             >
             <div className="d-flex flex-column justify-content-center mx-2 mw-25">
               <a
-                href="../../../assets/resume/Marcelo G Feitoza - Curriculo.pdf"
+                href="../../assets/resume-pt.pdf"
                 download
               >
                 <p className="h5">My Curriculum (PT-BR)</p>
@@ -79,7 +79,7 @@ function Intro() {
             </div>
             <div className="d-flex flex-column justify-content-center mx-2">
               <a
-                href="../../../assets/resume/Marcelo G Feitoza - Curriculo.pdf"
+                href="../../assets/resume-en.pdf"
                 download
               >
                 <p className="h5">My Curriculum (EN)</p>
