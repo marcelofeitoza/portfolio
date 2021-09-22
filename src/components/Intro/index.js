@@ -19,6 +19,7 @@ function Intro() {
             alt="marcelo"
             className="d-none d-sm-block mr-3"
             width="200"
+            height="350"
           />
 
           <div className='col-xs-100 col-lg-50'>
