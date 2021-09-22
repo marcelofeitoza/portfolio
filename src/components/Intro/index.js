@@ -22,23 +22,24 @@ function Intro() {
             height="350"
           />
 
-          <div className='col-xs-100 col-lg-50'>
+          <div className="col-xs-100 col-lg-50">
             <h1 className="text-left h2">Marcelo G Feitoza</h1>
             <h2 className="text-secondary h4 mb-3">
               Mobile/Full Stack Developer
             </h2>
 
             <p className="h5">
-              I am a brazilian aspiring mobile and full-stack 
-              developer building up my skills and learning all the time.
+              I am a brazilian aspiring mobile and full-stack developer building
+              up my skills and learning all the time.
             </p>
             <p className="h5">
-              Currently I use React for the front-end, Flask (or Django)
-              for the back-end, and am learning and building
-              somethings with React Native for mobile.
+              Currently I use React for the front-end, Flask (or Django) for the
+              back-end, and am learning and building somethings with React
+              Native for mobile.
             </p>
-            <p className='h5'>
-              I look forward to get experience with the    technologies I am learning and get started working!
+            <p className="h5">
+              I look forward to get experience with the technologies I am
+              learning and get started working!
             </p>
 
             <div id="sideicons" className="d-flex mt-5 justify-content-center">
@@ -64,9 +65,30 @@ function Intro() {
                 </a>
               </div>
             </div>
+            <div
+              id="sideicons"
+              className="d-flex mt-5 justify-content-center"
+            >
+            <div className="d-flex flex-column justify-content-center mx-2 mw-25">
+              <a
+                href="../../../assets/resume/Marcelo G Feitoza - Curriculo.pdf"
+                download
+              >
+                <p className="h5">My Curriculum (PT-BR)</p>
+              </a>
+            </div>
+            <div className="d-flex flex-column justify-content-center mx-2">
+              <a
+                href="../../../assets/resume/Marcelo G Feitoza - Curriculo.pdf"
+                download
+              >
+                <p className="h5">My Curriculum (EN)</p>
+              </a>
+            </div>
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 }
