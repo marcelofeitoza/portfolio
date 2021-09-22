@@ -5,6 +5,9 @@ import linkedinIcon from "../../assets/images/linkedin.png";
 import githubIcon from "../../assets/images/github.png";
 import marceloPic from "../../assets/images/marcelo.png";
 
+import resumeEn from "../../resume-en.pdf";
+import resumePt from "../../resume-pt.pdf";
+
 function Intro() {
   return (
     <div
@@ -71,7 +74,7 @@ function Intro() {
             >
             <div className="d-flex flex-column justify-content-center mx-2 mw-25">
               <a
-                href="../../assets/resume-pt.pdf"
+                href={resumePt}
                 download
               >
                 <p className="h5">My Curriculum (PT-BR)</p>
@@ -79,7 +82,7 @@ function Intro() {
             </div>
             <div className="d-flex flex-column justify-content-center mx-2">
               <a
-                href="../../assets/resume-en.pdf"
+                href={resumeEn}
                 download
               >
                 <p className="h5">My Curriculum (EN)</p>
