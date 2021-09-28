@@ -11,6 +11,18 @@ function Projects() {
         w-75"
       >
         <div className="text-decoration-none ">
+          <div className="col-sm ">
+            <a
+              href="https://github.com/marcelofeitoza/facebook-clone-react-native"
+              target="_blank"
+            >
+              <h3 className="h5">React Native - CyberGenios</h3>
+              <p className="text-secondary">
+                App made based on the CyberGenios company
+                (https://www.cybergenios.com.br/)
+              </p>
+            </a>
+          </div>
           <div className="col-sm">
             <a
               href="https://github.com/marcelofeitoza/react-native-todo-list"
@@ -41,17 +53,6 @@ function Projects() {
               <h3 className="h5">Flask + React + MongoDB - Todo List</h3>
               <p className="text-secondary">
                 Full stack todo list using Flask, React and MongoDB
-              </p>
-            </a>
-          </div>
-          <div className="col-sm ">
-            <a
-              href="https://github.com/marcelofeitoza/facebook-clone-react-native"
-              target="_blank"
-            >
-              <h3 className="h5">React Native - Facebook Clone (ongoing)</h3>
-              <p className="text-secondary">
-                Clone of Facebook UI using React Native
               </p>
             </a>
           </div>
