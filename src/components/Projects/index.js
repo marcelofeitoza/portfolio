@@ -13,7 +13,7 @@ function Projects() {
         <div className="text-decoration-none ">
           <div className="col-sm ">
             <a
-              href="https://github.com/marcelofeitoza/facebook-clone-react-native"
+              href="https://github.com/marcelofeitoza/CyberGenios"
               target="_blank"
             >
               <h3 className="h5">React Native - CyberGenios</h3>
