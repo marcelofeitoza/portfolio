@@ -32,13 +32,11 @@ function Intro() {
             </h2>
 
             <p className="h5">
-              I am a brazilian aspiring mobile and full-stack developer building
+              I am a brazilian aspiring mobile developer building
               up my skills and learning all the time.
             </p>
             <p className="h5">
-              Currently I use React for the front-end, Flask (or Django) for the
-              back-end, and am learning and building somethings with React
-              Native for mobile.
+              Currently I am learning React Native while attending university.
             </p>
             <p className="h5">
               I look forward to get experience with the technologies I am
