@@ -12,18 +12,15 @@ function Projects() {
       >
         <div className="text-decoration-none ">
           <div className="col-sm ">
-            <a
-              href="https://github.com/marcelofeitoza/CyberGenios"
-              target="_blank"
-            >
-              <h3 className="h5">React Native - CyberGenios</h3>
+            <a href="https://github.com/marcelofeitoza/to.do" target="_blank">
+              <h3 className="h5">React Native - to.do</h3>
               <p className="text-secondary">
-                App made based on the CyberGenios company
-                (https://www.cybergenios.com.br/)
+                To do list built with React Native and TypeScript. Creating,
+                deleting, reading and toggling done/not done interactions.
               </p>
             </a>
           </div>
-          <div className="col-sm">
+          {/* <div className="col-sm">
             <a
               href="https://github.com/marcelofeitoza/react-native-todo-list"
               target="_blank"
@@ -33,7 +30,7 @@ function Projects() {
                 Todo list using React Native and AsyncStorage
               </p>
             </a>
-          </div>
+          </div> */}
           <div className="col-sm">
             <a
               href="https://github.com/marcelofeitoza/github-user-fetch-app"
@@ -45,17 +42,7 @@ function Projects() {
               </p>
             </a>
           </div>
-          <div className="col-sm">
-            <a
-              href="https://github.com/marcelofeitoza/flask-react-todo-list"
-              target="_blank"
-            >
-              <h3 className="h5">Flask + React + MongoDB - Todo List</h3>
-              <p className="text-secondary">
-                Full stack todo list using Flask, React and MongoDB
-              </p>
-            </a>
-          </div>
+
           <div className="col-sm">
             <a
               href="https://github.com/marcelofeitoza/react-native-crypto-price-tracker-app"

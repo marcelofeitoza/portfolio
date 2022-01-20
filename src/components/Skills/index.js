@@ -6,47 +6,6 @@ function Skills() {
       <h1 className="text-center">Skills</h1>
 
       <div className="container w-70 container w-70 align-items-center">
-        <div className="row justify-content-center">
-          <div className="col-sm">
-            <div className="row align-items-center ml-1 h-20">
-              <img
-                alt="Python"
-                src="https://img.icons8.com/color/452/python--v1.png"
-                width={48}
-                height={48}
-              />
-              <h4 className="ml-2">Python</h4>
-            </div>
-            <p className="h6">Intermediate ~ Advanced</p>
-          </div>
-
-          <div className="col-sm">
-            <div className="row align-items-center ml-1 h-20">
-              <img
-                alt="Flask"
-                src="https://img.icons8.com/ios/150/000000/flask.png"
-                width={52}
-                height={52}
-              />
-              <h4 className="ml-2">Flask</h4>
-            </div>
-            <p className="h6">Intermediate</p>
-          </div>
-
-          <div className="col-sm">
-            <div className="row align-items-center ml-1 h-20">
-              <img
-                alt="Git"
-                src="https://img.icons8.com/color/50/000000/git.png"
-                width={48}
-                height={48}
-              />
-              <h4 className="ml-2">Git</h4>
-            </div>
-            <p className="h6">Intermediate ~ Advanced</p>
-          </div>
-        </div>
-
         <div className="row">
           <div className="col-sm">
             <div className="row align-items-center ml-1 h-20">
@@ -64,12 +23,25 @@ function Skills() {
           <div className="col-sm">
             <div className="row align-items-center ml-1 h-20">
               <img
-                alt="React"
+                alt="TypeScript"
+                src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
+                width={40}
+                height={40}
+              />
+              <h4 className="ml-2">TypeScript</h4>
+            </div>
+            <p className="h6">Basic</p>
+          </div>
+
+          <div className="col-sm">
+            <div className="row align-items-center ml-1 h-20">
+              <img
+                alt="React Native"
                 src="https://img.icons8.com/color/48/000000/react-native.png"
                 width={48}
                 height={48}
               />
-              <h4 className="ml-2">React</h4>
+              <h4 className="ml-2">React Native</h4>
             </div>
             <p className="h6">Intermediate</p>
           </div>
@@ -77,12 +49,12 @@ function Skills() {
           <div className="col-sm">
             <div className="row align-items-center ml-1 h-20">
               <img
-                alt="React Native"
-                src="https://img.icons8.com/nolan/64/react-native.png"
+                alt="Git"
+                src="https://img.icons8.com/color/50/000000/git.png"
                 width={48}
                 height={48}
               />
-              <h4 className="ml-2">React Native</h4>
+              <h4 className="ml-2">Git</h4>
             </div>
             <p className="h6">Intermediate</p>
           </div>
